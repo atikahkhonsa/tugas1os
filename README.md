@@ -1,4 +1,4 @@
-# tugas1os
+# Tugas1OS
 Assignment 1 :
 - Task 1 = The xv6 Makefile
 - Task 2 = Conditional Compilation
