@@ -1,6 +1,8 @@
 # Tugas 1 Sistem Operasi
 Nama : Atikah Khonsa Salsabila
+
 NIM : 1313619002
+
 Prodi : Ilmu Komputer 2019
 
 Ini adalah halaman untuk mengumpulkan assignment 1 tugas mata kuliah Sistem Operasi, yang berisi tentang :
