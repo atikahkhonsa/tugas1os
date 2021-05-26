@@ -46,3 +46,17 @@ int atoi(const char*);
 int atoo(const char*);
 int strncmp(const char*, const char*, uint);
 #endif // PDX_XV6
+
+// Memunculkan date
+#ifdef CS333_P1
+int date (struct rtcdate*);
+#endif
+
+#ifdef CS333_P2
+uint getuid(void);  // UID of the current process
+uint getgid(void);  // GID of the current process
+uint getppid(void); // Process ID of the parent process
+
+int setuid(uint);  // set UID
+int setgid(uint);  // set GID
+#endif // CS333_P2
